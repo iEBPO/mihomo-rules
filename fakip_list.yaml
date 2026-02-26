@@ -16,6 +16,7 @@ payload:
     - 'GEOSITE,autodesk'
     - 'GEOSITE,adguard'
     - 'GEOSITE,rutracker'
+    - 'GEOSITE,tiktok'
     - 'DOMAIN-SUFFIX,ntc.party'
     - 'DOMAIN-SUFFIX,2ip.io'
     - 'DOMAIN-SUFFIX,browserleaks.com'
