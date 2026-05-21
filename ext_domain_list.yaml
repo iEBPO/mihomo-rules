@@ -57,3 +57,6 @@
       - DOMAIN-SUFFIX,mouthshut.com
       - DOMAIN-SUFFIX,cnbj1.fds.api.xiaomi.com
       - DOMAIN-SUFFIX,orcaslicer.com
+      - DOMAIN-SUFFIX,zammad.com
+      - DOMAIN-SUFFIX,zammad.org
+      - DOMAIN-SUFFIX,pool.ntp.org
