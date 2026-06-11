@@ -1,4 +1,5 @@
     payload:
+      - IP-ASN,136907
       - GEOSITE,huaweicloud
       - GEOSITE,huawei
       - GEOSITE,yandex
