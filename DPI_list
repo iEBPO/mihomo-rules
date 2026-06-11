@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,gokino.by
+  - DOMAIN-SUFFIX,host.io
+  - DOMAIN-SUFFIX,lomont.site
+  - DOMAIN-SUFFIX,cloudzy.com
+  - DOMAIN-SUFFIX,european-alternatives.eu
+  - DOMAIN-SUFFIX,hawkhost.com
+  - DOMAIN-SUFFIX,geekbench.com
+  - DOMAIN-SUFFIX,62yun.ru
+  - DOMAIN-SUFFIX,makerworld.com
+  - DOMAIN-SUFFIX,bblmw.com
+  - DOMAIN-SUFFIX,gname.com
+  - DOMAIN-SUFFIX,i.ytimg.com
+  - DOMAIN-SUFFIX,api.variyt.ws
+  - DOMAIN-SUFFIX,firefox.com
+  - GEOSITE,github
+  - GEOSITE,rutracker
