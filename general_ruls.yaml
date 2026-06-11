@@ -32,3 +32,7 @@ payload:
   - GEOIP,telegram
   - GEOSITE,telegram
   - GEOSITE,discord
+  - GEOSITE,google-deepmind
+  - GEOSITE,google-gemini
+  - DOMAIN-SUFFIX,google.eu
+  - DOMAIN-SUFFIX,accounts.google.ru
