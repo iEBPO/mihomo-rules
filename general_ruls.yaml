@@ -36,3 +36,4 @@ payload:
   - GEOSITE,google-gemini
   - DOMAIN-SUFFIX,google.eu
   - DOMAIN-SUFFIX,accounts.google.ru
+  - AND,((GEOSITE,google),(DST-PORT,80))
