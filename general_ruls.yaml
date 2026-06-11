@@ -1,7 +1,4 @@
 payload:
-  - NOT,((GEOSITE,youtube))
-  - NOT,((GEOSITE,google))
-  - NOT,((GEOSITE,instagram))
   - GEOSITE,synology
   - GEOSITE,oneplus
   - GEOSITE,tiktok
@@ -27,8 +24,8 @@ payload:
   - GEOSITE,x,GLOBAL
   - GEOSITE,spotify
   - GEOSITE,deezer
-  - GEOSITE,meta
-  - GEOIP,facebook
+  - AND,((GEOSITE,meta),(NOT,((GEOSITE,instagram))))
+  - AND,((GEOIP,facebook),(NOT,((GEOSITE,instagram))))
   - GEOSITE,facebook
   - GEOSITE,whatsapp
   - GEOSITE,rutracker
