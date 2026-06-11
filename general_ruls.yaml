@@ -1,4 +1,7 @@
 payload:
+  - NOT,(GEOSITE,youtube)
+  - NOT,(GEOSITE,google)
+  - NOT,(GEOSITE,instagram)
   - GEOSITE,synology
   - GEOSITE,oneplus
   - GEOSITE,tiktok
@@ -32,6 +35,3 @@ payload:
   - GEOIP,telegram
   - GEOSITE,telegram
   - GEOSITE,discord
-  - NOT,(GEOSITE,youtube)
-  - NOT,(GEOSITE,google)
-  - NOT,(GEOSITE,instagram)
