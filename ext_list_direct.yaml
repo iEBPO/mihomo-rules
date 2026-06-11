@@ -1,0 +1,16 @@
+    payload:
+      - GEOSITE,huaweicloud
+      - GEOSITE,yandex
+      - GEOSITE,category-ru
+      - DOMAIN-SUFFIX,home-assistant.io
+      - DOMAIN-SUFFIX,tuyaeu.com
+      - DOMAIN-SUFFIX,tplinknbu.com
+      - DOMAIN-SUFFIX,t-ru.org
+      - DST-PORT,8886
+      - DOMAIN-REGEX,.*aliexpress.*
+      - DOMAIN-SUFFIX,heytapmobile.com
+      - DOMAIN-SUFFIX,perplexity.ai
+      - GEOSITE,category-gov-ru
+      - GEOSITE,apple
+      - GEOSITE,category-public-tracker
+      - DOMAIN-SUFFIX,idryer.org
