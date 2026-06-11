@@ -1,4 +1,7 @@
 payload:
+  - SRC-PORT,6881 #Torrent
+  - DST-PORT,6881-6889 #Torrent
+  - DST-PORT,123
   - IP-ASN,136907
   - GEOSITE,huaweicloud
   - GEOSITE,huawei
