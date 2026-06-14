@@ -31,7 +31,6 @@ payload:
   - GEOSITE,rutracker
   - GEOIP,telegram
   - GEOSITE,telegram
-  - GEOSITE,signal
   - GEOSITE,discord
   - GEOSITE,google-deepmind
   - GEOSITE,google-gemini
