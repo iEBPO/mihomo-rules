@@ -24,6 +24,7 @@ payload:
   - GEOSITE,x,GLOBAL
   - GEOSITE,spotify
   - GEOSITE,deezer
+  - GEOSITE,ea
   - AND,((GEOSITE,meta),(NOT,((GEOSITE,instagram))))
   - AND,((GEOIP,facebook),(NOT,((GEOSITE,instagram))))
   - GEOSITE,facebook
