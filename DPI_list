@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,firefox.com
   - GEOSITE,github
   - GEOSITE,rutracker
+  - DOMAIN-SUFFIX,gname.net
